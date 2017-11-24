@@ -1,2 +1,2 @@
 # MicroPong
-The classic videogame in 824 bytes
+The classic videogame for the Commodore 64 in 824 bytes.
